@@ -10,7 +10,10 @@ body {
   background-color: #f5f5f5;
 }
 .imge{
+  height: 15rem;
+  width: 15rem;
   padding-bottom: 5%;
+  align-items: center;
 }
 .form-signin {
   max-width: 330px;
